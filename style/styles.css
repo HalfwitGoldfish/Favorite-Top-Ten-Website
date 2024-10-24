@@ -1,0 +1,46 @@
+/* ID's */
+    #navbar {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        border: solid 1px rgba(255, 255, 255, 0.5);
+    }
+
+    #title {
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 20px;
+        border: solid 1px rgba(255, 255, 255, 0.5);
+    }
+
+    #home-button {
+        border-color: limegreen;
+        margin-left: 50px;
+    }
+
+    #options-button {
+        border-color: white;
+        margin-left: 15px;
+    }
+
+    #main-cards {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 200px;
+    }
+
+    #scrollspy {
+        display: flex;
+        background-color: rgba(0, 0, 0, 0.5);
+        height: max-content;
+        text-align: center;
+    }
+
+
+/* Color Classes */
+    .text-white {
+        color: white;
+    }
