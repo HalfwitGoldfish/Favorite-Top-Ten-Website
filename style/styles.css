@@ -54,7 +54,41 @@
     }
 
 /* Other Classes */
+
     .card {
         background-color: rgba(0, 0, 0, 0.5);
-        border: solid 1px rgba(255, 255, 255, 0.5);
+        border: solid 3px rgba(255, 255, 255, 1);
+    }
+
+    .alter-card {
+        background-color: rgba(0, 0, 0, 0);
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-left: 500px;
+    }
+
+    .scrollspy-example-2 {
+        position: relative;
+        height: 93vh;
+        overflow: auto;
+    }
+
+    .item-alter {
+        margin-bottom: 25px;
+        font-size: 35px;
+    }
+
+    .card-title-alter {
+        font-size: 35px;
+        color: white;
+        border: solid 3px;
+    }
+
+    .card-text-alter {
+        font-size: 30px;
+        color: white;
+        border: solid 3px;
+        text-align: left;
+        padding-left: 25px;
+        padding-right: 5px;
     }
