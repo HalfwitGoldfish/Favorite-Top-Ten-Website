@@ -49,12 +49,14 @@
 
     #BloodborneTop10 {
         background-image: url("../assets/Launch Page/Bloodborne-Background-3.png");
-        background-size: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 
     #ProjectCarsTop10 {
         background-image: url("../assets/Launch Page/Car-Background.png");
-        background-size: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
 
 
