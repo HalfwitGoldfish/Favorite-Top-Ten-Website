@@ -1,152 +1,151 @@
-    p {
-        margin: 0;
-    }
+p {
+  margin: 0;
+}
 
 /* ID's */
-    #navbar {
-        background-color: rgba(0, 0, 0, 0.5);
-        padding-top: 10px;
-        padding-bottom: 10px;
-        border-bottom-left-radius: 20px;
-        border-bottom-right-radius: 20px;
-        border: solid 2px rgba(255, 255, 255, 0.5);
-    }
+#navbar {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border: solid 2px rgba(255, 255, 255, 0.5);
+}
 
-    #title {
-        display: flex;
-        justify-content: center;
-        background-color: rgba(0, 0, 0, 0.5);
-        padding-top: 30px;
-        padding-bottom: 30px;
-        border-radius: 20px;
-        border: solid 2px rgba(255, 255, 255, 0.5);
-        font-size: 25px;
-        width: 900px
-    }
+#title {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+  border: solid 2px rgba(255, 255, 255, 0.5);
+  font-size: 25px;
+  width: 900px;
+}
 
-    #home-button {
-        border-color: limegreen;
-        margin-left: 50px;
-    }
+#home-button {
+  border-color: limegreen;
+  margin-left: 50px;
+}
 
-    #options-button {
-        border-color: white;
-        margin-left: 15px;
-    }
+#options-button {
+  border-color: white;
+  margin-left: 15px;
+}
 
-    #main-cards {
-        display: flex;
-        justify-content: space-evenly;
-        margin-top: 30px;
-    }
+#main-cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
 
-    #scrollspy {
-        display: flex;
-        height: max-content;
-        text-align: center;
-    }
+#scrollspy {
+  display: flex;
+  height: max-content;
+  text-align: center;
+}
 
-    #BloodborneTop10 {
-        background-image: url("../assets/Launch Page/Bloodborne-Background-3.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        min-height: 100vh;
-    }
+#BloodborneTop10 {
+  background-image: url("../assets/Launch Page/Bloodborne-Background-3.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
 
-    #ProjectCarsTop10 {
-        background-image: url("../assets/Launch Page/Car-Background.png");
-        background-size: cover;
-        background-repeat: no-repeat;
-        min-height: 100vh;
-    }
+#ProjectCarsTop10 {
+  background-image: url("../assets/Launch Page/Car-Background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
 
-    #Index-Background {
-        background-image: url("../assets/Launch Page/DaIndexBckGrnd.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        min-height: 100vh;
-    }
+#Index-Background {
+  background-image: url("../assets/Launch Page/DaIndexBckGrnd.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
 
 /* Color Classes */
-    .text-white {
-        color: white;
-    }
+.text-white {
+  color: white;
+}
 
-    
 /* Other Classes */
-    .alter-card {
-        background-color: rgba(0, 0, 0, 0.5);
-        margin-top: 100px;
-        margin-bottom: 100px;
-        border-radius: 18px;
-        border: solid 2px;
-        border-color: lightgray;
-    }
+.alter-card {
+  background-color: rgba(0, 0, 0, 0.5);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  border-radius: 18px;
+  border: solid 2px;
+  border-color: lightgray;
+}
 
-    .scrollspy-example-2 {
-        position: relative;
-        height: 93vh;
-        overflow: auto;
-    }
+.scrollspy-example-2 {
+  position: relative;
+  height: 93vh;
+  overflow: auto;
+}
 
-    .item-alter {
-        margin-top: 10px;
-        margin-bottom: 5px;
-        font-size: 25px;
-    }
+.item-alter {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-size: 25px;
+}
 
-    .card-title-alter {
-        font-size: 35px;
-        color: white;
-        border: solid 2px;
-        border-radius: 10px;
-        text-align: center;
-    }
+.card-title-alter {
+  font-size: 35px;
+  color: white;
+  border: solid 2px;
+  border-radius: 10px;
+  text-align: center;
+}
 
-    .card-text-alter {
-        font-size: 30px;
-        color: white;
-        border: solid 2px;
-        border-radius: 10px;
-        text-align: left;
-        padding-left: 25px;
-        padding-right: 5px;
-    }
+.card-text-alter {
+  font-size: 30px;
+  color: white;
+  border: solid 2px;
+  border-radius: 10px;
+  text-align: left;
+  padding-left: 25px;
+  padding-right: 5px;
+}
 
-    .center {
-        display: flex;
-        justify-content: center;
-    }
+.center {
+  display: flex;
+  justify-content: center;
+}
 
-    .h-200 {
-        border: solid 2px;
-        border-radius: 20px;
-        background-color: rgba(0, 0, 0, 0.5);
-    }
+.h-200 {
+  border: solid 2px;
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
 
-    .carousel-inner {
-        border-radius: 15px;
-        border: solid 2px;
-        border-color: white;
-    }
+.carousel-inner {
+  border-radius: 15px;
+  border: solid 2px;
+  border-color: white;
+}
 
-    .alter-card-launch {
-        background-color: rgba(0, 0, 0, 0.5);
-        border-radius: 18px;
-        border: solid 2px;
-        border-color: lightgray;
-    }
+.alter-card-launch {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 18px;
+  border: solid 2px;
+  border-color: lightgray;
+}
 
-    .index-card {
-        border-radius: 15px;
-        border: solid 2px;
-        border-color: white;
-    }
+.index-card {
+  border-radius: 15px;
+  border: solid 2px;
+  border-color: white;
+}
 
-    .alter-button {
-        border-color: blue;
-        background-color: 0,0,0,0;
-        color: white;
-        border: solid blue 2px;
-        margin-top: 10px;
-    }
+.alter-button {
+  border-color: blue;
+  background-color: 0, 0, 0, 0;
+  color: white;
+  border: solid blue 2px;
+  margin-top: 10px;
+}
