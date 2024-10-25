@@ -146,4 +146,7 @@
     .alter-button {
         border-color: blue;
         background-color: 0,0,0,0;
+        color: white;
+        border: solid blue 2px;
+        margin-top: 10px;
     }
