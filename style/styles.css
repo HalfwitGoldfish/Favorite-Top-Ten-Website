@@ -52,6 +52,11 @@
         background-size: 100%;
     }
 
+    #ProjectCarsTop10 {
+        background-image: url("../assets/Launch Page/Car-Background.png");
+        background-size: 100%;
+    }
+
 
 /* Color Classes */
     .text-white {
@@ -60,11 +65,6 @@
 
     
 /* Other Classes */
-    .card {
-        background-color: rgba(0, 0, 0, 0.5);
-        border: solid 3px rgba(255, 255, 255, 1);
-    }
-
     .alter-card {
         background-color: rgba(0, 0, 0, 0.5);
         margin-top: 100px;
@@ -92,6 +92,7 @@
         border: solid 3px;
         border-radius: 10px;
         margin-top: 10px;
+        text-align: center;
     }
 
     .card-text-alter {
@@ -119,4 +120,13 @@
         border-radius: 15px;
         border: solid 3px;
         border-color: white;
+    }
+
+    .alter-card-launch {
+        background-color: rgba(0, 0, 0, 0.5);
+        /* margin-top: 100px;
+        margin-bottom: 100px; */
+        border-radius: 18px;
+        border: solid 3px;
+        border-color: lightgray;
     }
