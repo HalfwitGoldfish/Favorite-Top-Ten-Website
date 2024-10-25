@@ -73,8 +73,9 @@
     }
 
     .item-alter {
-        margin-bottom: 25px;
-        font-size: 35px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        font-size: 25px;
     }
 
     .card-title-alter {
@@ -96,9 +97,4 @@
     .center {
         display: flex;
         justify-content: center;
-    }
-
-    .w-100-Ch {
-        width: 100% !important;
-        /* height: 32vh; */
     }
