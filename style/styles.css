@@ -50,18 +50,21 @@
         background-image: url("../assets/Launch Page/Bloodborne-Background-3.png");
         background-size: cover;
         background-repeat: no-repeat;
+        min-height: 100vh;
     }
 
     #ProjectCarsTop10 {
         background-image: url("../assets/Launch Page/Car-Background.png");
         background-size: cover;
         background-repeat: no-repeat;
+        min-height: 100vh;
     }
 
     #Index-Background {
         background-image: url("../assets/Launch Page/DaIndexBckGrnd.jpg");
         background-size: cover;
         background-repeat: no-repeat;
+        min-height: 100vh;
     }
 
 /* Color Classes */
