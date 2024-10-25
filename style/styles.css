@@ -98,7 +98,7 @@
         justify-content: center;
     }
 
-    .w-100 {
+    .w-100-Ch {
         width: 100% !important;
-        height: 23vh;
+        /* height: 32vh; */
     }
